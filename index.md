@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 Hi, my name is Thiago, and I'm a Brazilian computer scientist interested in many aspects of software engineering.
 Nowadays, I work as a backend software developer with Ruby on Rails and occasionally use React for frontend development.
 I've also worked with Elixir on a small project using the Phoenix framework, and I love exploring the functional programming paradigm.
